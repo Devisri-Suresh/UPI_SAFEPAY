@@ -1,9 +1,0 @@
-com\upiguard\ApiController$CheckReq.class
-com\upiguard\ApiController$PayReq.class
-com\upiguard\UpiGuardApplication.class
-com\upiguard\ApiController.class
-com\upiguard\UpiService.class
-com\upiguard\RiskEngine$Result.class
-com\upiguard\ApiController$SimReq.class
-com\upiguard\RiskEngine.class
-com\upiguard\ApiController$ReportReq.class
